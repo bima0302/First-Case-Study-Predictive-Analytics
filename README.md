@@ -1,0 +1,2 @@
+# First-Case-Study-Predictive-Analytics
+Predictive analytics is an applied field that uses various quantitative methods to make predictions by leveraging data. It is the art of building and using predictive models based on historical data patterns. Data is converted and extracted into valuable information to generate analytical decisions. Today, decision analytics is a strategic weapon in the business field.
